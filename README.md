@@ -2,10 +2,10 @@
 
 Automated crypto market analysis and insights.
 
-**Last Update:** Fri May 22 09:00:24 AM CST 2026
+**Last Update:** Sat May 23 09:00:12 AM CST 2026
 
 ## Recent Insights
-- [Latest: 2026-05-22](insights/2026/05/2026-05-22.md)
+- [Latest: 2026-05-23](insights/2026/05/2026-05-23.md)
 
 ## Features
 - Daily market summaries
@@ -19,6 +19,6 @@ Automated crypto market analysis and insights.
 - Market metrics
 
 ## Stats
-- Total insights: 2
-- Days tracked: 2
-- Last commit: Fri May 22 09:00:25 AM CST 2026
+- Total insights: 3
+- Days tracked: 3
+- Last commit: Sat May 23 09:00:12 AM CST 2026
